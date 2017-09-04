@@ -1,0 +1,9 @@
+	Hi this node example.
+	Streams are the objects that facilitate you to read data from a source and write data to a destination. There are four types of streams in Node.js:
+
+	Readable: This stream is used for read operations.
+	Writable: This stream is used for write operations.
+	Duplex: This stream can be used for both read and write operations.
+	Transform: It is type of duplex stream where the output is computed according to input.
+
+	hi append it
